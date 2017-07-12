@@ -1,53 +1,31 @@
 {
     "labId": "spark_botkit_lab",
     "title": "Create a Cisco Spark Bot with Botkit",
-    "slug": "Create a Cisco Spark bot using Botkit. After the initial setup you will start the bot, test it and then make it smarter + add more functionality",
+    "slug": "Create a Cisco Spark bot using Botkit. After the setup you will start the bot, test it and then make it smarter and add more functionality",
     "time": "30",
-    "tags": [{
-            "title": "collaboration"
-        },
-        {
-            "title": "spark"
-        },
-        {
-            "title": "nodejs"
-        },
-        {
-            "title": "botkit"
-        },
-        {
-            "title": "bot"
-        }
+    "tags": [
+        {"title": "collaboration"},
+        {"title": "spark"},
+        {"title": "nodejs"},
+        {"title": "botkit"},
+        {"title": "bot"}
     ],
-    "files": [{
-            "Introduction": "1.md"
-        },
-        {
-            "Prepare yourself": "2.md"
-        },
-        {
-            "Create & Run code": "3.md"
-        },
-        {
-            "Make the bot smarter 1": "4.md"
-        },
-        {
-            "Make the bot smarter 2": "5.md"
-        }
+    "files": [
+        {"Introduction": "1.md"},
+        {"Prepare yourself": "2.md"},
+        {"Create & Run code": "3.md"},
+        {"Make the bot smarter 1": "4.md"},
+        {"Make the bot smarter 2": "5.md"}
     ],
     "byod": true,
-    "related": [{
-            "labId": "collab-spark-botl-ngrok",
-            "title": "Run a Cisco Spark Bot locally"
-        },
-        {
-            "labId": "collab-spark-botd-cloud9",
-            "title": "Deploy a Cisco Spark Bot (Cloud9)"
-        }
+    "related": [
+        {"labId": "collab-spark-botl-ngrok",
+            "title": "Run a Cisco Spark Bot locally"},
+        {"labId": "collab-spark-botd-cloud9",
+            "title": "Deploy a Cisco Spark Bot (Cloud9)"}
     ],
-    "authors": [{
-        "name": "DJ Uittenbogaard",
-        "email": "duittenb@cisco.com"
-    }],
+    "authors": [
+        {"name": "D.J. Uittenbogaard","email": "duittenb@cisco.com"}
+    ],
     "active": false
 }
